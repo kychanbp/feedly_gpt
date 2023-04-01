@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Chan subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Statistics" title="Statistics">
+            <outline type="rss" text="CEPII" title="CEPII" xmlUrl="http://www.cepii.fr/CEPII/rss/RSSAll.asp" htmlUrl="http://www.cepii.fr/"/>
+            <outline type="rss" text="最新发布" title="最新发布" xmlUrl="http://www.stats.gov.cn/tjsj/zxfb/rss.xml" htmlUrl="http://www.stats.gov.cn/tjsj/zxfb/"/>
+            <outline type="rss" text="数据解读" title="数据解读" xmlUrl="http://www.stats.gov.cn/tjsj/sjjd/rss.xml" htmlUrl="http://www.stats.gov.cn/tjsj/sjjd/"/>
+            <outline type="rss" text="Census and Statistics Department" title="Census and Statistics Department" xmlUrl="http://www.censtatd.gov.hk/feed.jsp?charsetID=1" htmlUrl="http://www.censtatd.gov.hk/home/index.jsp"/>
+            <outline type="rss" text="FRED Blog" title="FRED Blog" xmlUrl="http://fredblog.stlouisfed.org/feed/" htmlUrl="https://fredblog.stlouisfed.org"/>
+        </outline>
+        <outline text="Data-science" title="Data-science"/>
+        <outline text="Property Research" title="Property Research">
+            <outline type="rss" text="Commercial real estate market research | JLL" title="Commercial real estate market research | JLL" xmlUrl="https://rss.app/feeds/0Q0VDrRW6iVLgzDo.xml" htmlUrl="https://www.us.jll.com/en/trends-and-insights/research"/>
+            <outline type="rss" text="Hong Kong Real Estate Market Outlook 2020 | Research Reports" title="Hong Kong Real Estate Market Outlook 2020 | Research Reports" xmlUrl="https://rss.app/feeds/Byjekcw6X52WlVhP.xml" htmlUrl="https://www.jll.com.hk/en/trends-and-insights/research"/>
+        </outline>
+        <outline text="AL/ML" title="AL/ML">
+            <outline type="rss" text="Google AI Blog" title="Google AI Blog" xmlUrl="http://googleresearch.blogspot.com/atom.xml" htmlUrl="http://ai.googleblog.com/"/>
+        </outline>
+        <outline text="TED" title="TED">
+            <outline type="rss" text="TED Tech" title="TED Tech" xmlUrl="http://feeds.feedburner.com/iTunesPodcastTTTechnology" htmlUrl="http://audiocollective.ted.com"/>
+            <outline type="rss" text="TED Business" title="TED Business" xmlUrl="http://feeds.feedburner.com/iTunesPodcastTTBusiness" htmlUrl="http://www.ted.com/podcasts"/>
+        </outline>
+        <outline text="SEC" title="SEC">
+            <outline type="rss" text="BERKSHIRE HATHAWAY INC (0001067983)" title="BERKSHIRE HATHAWAY INC (0001067983)" xmlUrl="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001067983&amp;type=&amp;dateb=&amp;owner=include&amp;start=0&amp;count=10&amp;output=atom" htmlUrl="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001067983&amp;owner=include&amp;start=0&amp;count=10"/>
+            <outline type="rss" text="TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD (0001046179)" title="TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD (0001046179)" xmlUrl="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001046179&amp;type=&amp;dateb=&amp;owner=include&amp;start=0&amp;count=20&amp;output=atom" htmlUrl="https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&amp;CIK=0001046179&amp;owner=include&amp;start=0&amp;count=20"/>
+        </outline>
+        <outline text="Role Models" title="Role Models">
+            <outline type="rss" text="Gates Notes" title="Gates Notes" xmlUrl="http://www.thegatesnotes.com/RSS" htmlUrl="https://www.gatesnotes.com"/>
+        </outline>
+        <outline text="Press Release of Investment" title="Press Release of Investment"/>
+        <outline text="Semiconductor" title="Semiconductor">
+            <outline type="rss" text="EE Times" title="EE Times" xmlUrl="http://www.eetimes.com/rss/rss-all.jhtml" htmlUrl="https://www.eetimes.com/"/>
+            <outline type="rss" text="DIGITIMES Asia: News and Insight of the Global Supply Chain" title="DIGITIMES Asia: News and Insight of the Global Supply Chain" xmlUrl="http://www.digitimes.com/rss/daily.xml" htmlUrl="https://www.digitimes.com"/>
+            <outline type="rss" text="SemiAccurate" title="SemiAccurate" xmlUrl="http://semiaccurate.com/feed/" htmlUrl="https://semiaccurate.com/"/>
+        </outline>
+        <outline text="Startups" title="Startups">
+            <outline type="rss" text="Y Combinator Blog" title="Y Combinator Blog" xmlUrl="https://blog.ycombinator.com/feed/" htmlUrl="https://www.ycombinator.com/blog/"/>
+            <outline type="rss" text="kwokchain" title="kwokchain" xmlUrl="http://kwokchain.com/feed/" htmlUrl="https://kwokchain.com/"/>
+            <outline type="rss" text="Paul Graham: Essays" title="Paul Graham: Essays" xmlUrl="http://www.aaronsw.com/2002/feeds/pgessays.rss" htmlUrl="http://www.paulgraham.com/"/>
+        </outline>
+        <outline text="5G" title="5G">
+            <outline type="rss" text="新通訊網站" title="新通訊網站" xmlUrl="https://www.2cm.com.tw/2cm/Rss.aspx" htmlUrl="https://www.2cm.com.tw/"/>
+        </outline>
+        <outline text="Science &amp; Technology" title="Science &amp; Technology">
+            <outline type="rss" text="始终" title="始终" xmlUrl="http://liam0205.me/atom.xml" htmlUrl="https://liam.page/"/>
+            <outline type="rss" text="阅微堂" title="阅微堂" xmlUrl="https://zhiqiang.org/feed.xml" htmlUrl="https://zhiqiang.org/"/>
+            <outline type="rss" text="The Long Now Blog" title="The Long Now Blog" xmlUrl="http://feeds.feedburner.com/longnow" htmlUrl="https://longnow.org/"/>
+            <outline type="rss" text="阮一峰的网络日志" title="阮一峰的网络日志" xmlUrl="http://feeds.feedburner.com/ruanyifeng" htmlUrl="http://www.ruanyifeng.com/blog/"/>
+        </outline>
+        <outline text="Maths" title="Maths">
+            <outline type="rss" text="What's new" title="What's new" xmlUrl="http://terrytao.wordpress.com/feed/" htmlUrl="https://terrytao.wordpress.com"/>
+        </outline>
+        <outline text="Newsletter" title="Newsletter">
+            <outline type="rss" text="Variance Explained" title="Variance Explained" xmlUrl="http://varianceexplained.org/feed.xml" htmlUrl="http://varianceexplained.org"/>
+            <outline type="rss" text="Doing Bayesian Data Analysis" title="Doing Bayesian Data Analysis" xmlUrl="http://doingbayesiandataanalysis.blogspot.com/feeds/posts/default" htmlUrl="http://doingbayesiandataanalysis.blogspot.com/"/>
+            <outline type="rss" text="What's new" title="What's new" xmlUrl="http://terrytao.wordpress.com/feed/" htmlUrl="https://terrytao.wordpress.com"/>
+            <outline type="rss" text="Stephen Wolfram Writings" title="Stephen Wolfram Writings" xmlUrl="http://blog.stephenwolfram.com/feed/" htmlUrl="https://writings.stephenwolfram.com"/>
+        </outline>
+        <outline text="Business News" title="Business News">
+            <outline type="rss" text="华尔街日报" title="华尔街日报" xmlUrl="https://cn.wsj.com/zh-hans/rss" htmlUrl="https://cn.wsj.com"/>
+            <outline type="rss" text="Financial Times" title="Financial Times" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoUxsWakJucWg46KW5RsvPw" htmlUrl="https://www.youtube.com/channel/UCoUxsWakJucWg46KW5RsvPw"/>
+            <outline type="rss" text="WSJ.com: WSJD" title="WSJ.com: WSJD" xmlUrl="https://feeds.a.dj.com/rss/RSSWSJD.xml" htmlUrl="http://online.wsj.com"/>
+        </outline>
+    </body>
+</opml>
